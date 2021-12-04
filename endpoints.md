@@ -1,6 +1,6 @@
 
 This is a non exhaustive list of endpoints from the ESPN hidden NFL API
-* ! * See the player_id.csv or player_id.json and team_id.csv For lists of active player Id's and team Id's * ! *
+* ! * See the player_id.csv and team_id.csv For lists of active player Id's and team Id's * ! *
 
 
 Scores for current week
